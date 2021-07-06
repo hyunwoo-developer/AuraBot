@@ -73,4 +73,4 @@ This study covers all processes for configuring chatbot from data configuration 
 ---
 본 프로젝트와 관련해 질문이 있으시면 hyunwoo.developer@gmail.com으로 이메일 보내주시면 답장드리겠습니다.
 
-If you have any questions about this project, please email hyunwoo.developer@gmail.com
+If you have any questions about this project, please email hyunwoo.developer@gmail.com.
