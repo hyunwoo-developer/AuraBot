@@ -1,4 +1,4 @@
-# Context-Analysis-Chatbot_Memory-Network / 맥락 분석 챗봇
+# aura_bot
 
 
 > 한국인공지능연구소 1기 / 자연어처리 / AURA 팀</br>
