@@ -43,7 +43,7 @@ In the final announcement of the 1st Korea Institute of Artificial Intelligence,
 The chatbots that have been studied in this study are based on the memory network model, which is a context-based chatbot. It is not based on how a person configures scenarios but consists of an end-to-end method of locating related contexts in randomly collected data and answering questions .
 
 ## Technology / 기술 설명
-메모리 네트워크는 데이터를 메모리에 저장하여 맥락을 이해하여 질문에 대한 답을 하는 방식으로 사용자의 질문을 이용하여 맥락 정보를 선택하는 스토리 선택 모듈과 선택된 스토리 정보와 질문 정보로 답변을 선택하는 탑변 선택 모듈로 구성되어 있습니다.
+메모리 네트워크는 데이터를 메모리에 저장하여 맥락을 이해하여 질문에 대한 답을 하는 방식으로 사용자의 질문을 이용하여 맥락 정보를 선택하는 스토리 선택 모듈과 선택된 스토리 정보와 질문 정보로 답변을 선택하는 답변 선택 모듈로 구성되어 있습니다.
 
 A memory network is a way of storing data in memory, understanding the context and answering questions. This chatbot consists of a story selection module that selects context information using the user's question and an answer selection module that selects the answer with selected story information and question information.
 
@@ -52,7 +52,7 @@ A memory network is a way of storing data in memory, understanding the context a
 In order to predict responses in the form of multiple single memory networks, this research has been conducted with three multi-layered memory networks.
 
 ## Research direction / 연구 방향
-2017년 창원 대학교의 메모리 네트워크를 이용한 End-to-End 방식의 레스토랑 예약 시스템에 착안하여 첫 질문은 맥락 없이 답변하고 그 이후 질문은 이전 질 을 맥락정보로 활용하여 답변하도록 데이터 셋을 구성하였습니다.
+2017년 창원 대학교의 메모리 네트워크를 이용한 End-to-End 방식의 레스토랑 예약 시스템에 착안하여 첫 질문은 맥락 없이 답변하고 그 이후 질문은 이전 질문을 맥락정보로 활용하여 답변하도록 데이터셋을 구성하였습니다.
 
 In 2017, I settled on an end-to-end restaurant reservation system using the memory network of Changwon University. The first question was answered without context, and the subsequent question was composed of data to be answered by using the previous quality as context information.
 
